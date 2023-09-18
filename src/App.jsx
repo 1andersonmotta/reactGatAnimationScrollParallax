@@ -38,14 +38,14 @@ function App() {
           offset={1.5}
           speed={0.05}
         >
-          <h2 style={{ color: 'red' }}>LEGAL!!</h2>
+          <h2 style={{ color: 'red' }}>LEGAL</h2>
         </ParallaxLayer>
 
         <ParallaxLayer
           offset={2}
           speed={2}
         >
-          <h2 style={{ color: 'yellow' }}>EFFEITO SCROLL!</h2>
+          <h2 style={{ color: 'yellow' }}>EFFEITO SCROLL</h2>
         </ParallaxLayer>
 
         <ParallaxLayer
