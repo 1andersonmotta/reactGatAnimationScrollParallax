@@ -1,7 +1,5 @@
-// import { useState } from 'react'
 import './App.css'
 import { Parallax, ParallaxLayer } from '@react-spring/parallax'
-// import { useParallax } from '@react-spring/parallax'
 
 function App() {
 
