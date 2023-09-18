@@ -60,17 +60,3 @@ function App() {
 export default App
 
 
-// const [count, setCount] = useState(0)
-// const parallax = useParallax < HTMLDivElement > ({
-//   rotate: [0, 360],
-// });
-// return (
-//   <div ref={parallax.ref} className="spinner">
-//     😵‍💫
-//     <div className="diamond">💎A</div>
-//     <div className="clown">🤡B</div>
-//     <div className="money">💰C</div>
-//     <div className="hand">👌🏻D</div>
-//     <p>oiii</p>
-//   </div>
-// );
