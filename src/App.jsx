@@ -2,7 +2,6 @@ import './App.css'
 import { Parallax, ParallaxLayer } from '@react-spring/parallax'
 
 function App() {
-
   return (
     <div>
       <Parallax pages={3}>
